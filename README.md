@@ -11,8 +11,6 @@ $ npm install
 ####For Dev:
 
 ```shell
-$ npm install
- 
 $ npm run dev
 ```
 
