@@ -3,7 +3,8 @@ import http from 'http';
 // import arrows from './arrowFunctions'
 // import lexicalScope from './lexicalScoping'
 // import spread from './spreading'
-import template from './stringTemplates'
+// import template from './stringTemplates'
+import generators from './generators'
 
 http.createServer((req, res) => {
     res.writeHead(200, {'Content-Type': 'text/plain'});
